@@ -1,6 +1,11 @@
 Datos Acerca del diseño de reimu
 
-Datos acerca del nombre: 
+- Datos acerca del nombre: 
 
 Originalmente, la idea de que Reimu fuese una sacerdotisa vino del personaje Sayo-chan, protagonista de KiKi KaiKai, otro juego juego danmaku de la época, por lo que ZUN pensó que sería una buena idea incluir una sacerdotisa en Highly Responsive to Prayers ya que era inusual en esa época, pues la mayoría de juegos danmaku tenían ambientes futuristas.
 
+- Acerca del nombre de Reimu:
+
+Los kanjis para el apellido Hakurei (博麗) literalmente significan algo sobre las líneas de "compañero estimado". La primera palabra Haku (博) significa "ancho" o "exposición", mientras que Rei (麗) significa "encantador", "agraciado" o "hermoso". Su primer nombre Reimu (霊夢, "espíritu/sueño del alma") es una palabra japonesa relevante que se refiere a una "revelación divina hecha a través de sueños".
+
+En los juegos de PC-98 sin embargo, su nombre era escrito con una ligera diferencia, ya que era escrito como "博麗 靈夢", "靈" es una forma poco común de "霊" con significados idénticos, como sea, esto fue cambiado a 博麗 霊夢 en Shuusou Gyoku, un juego de Seihou en el cual ZUN colaboró, por lo que desde entonces se ha mantenido esa escritura, sin embargo, en la comunidad japonesa, "博麗 靈夢" se utiliza para referirse específicamente a Reimu en los juegos de PC-98. Además, los fans taiwaneses que usan los caracteres tradicionales chinos también adoptan este estilo para referirse a Reimu en general (la antigua forma kanji japonesa y el hanzi tradicional son básicamente idénticos).
