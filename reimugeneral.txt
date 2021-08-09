@@ -1,6 +1,8 @@
+- General:
+
 Reimu Hakurei es la miko del Templo Hakurei y la personaje principal de Touhou Project junto con Marisa Kirisame. Fue el primer personaje creado por ZUN, y a lo largo de sus apariciones ha sufrido algunos cambios, tanto físicos como mentales.
 
-Personalidad:
+- Personalidad:
 
 Reimu puede ser descrita como una persona directa, optimista y un poco curiosa. En distintas ocasiones se ha podido observar además que Reimu puede ofenderse fácilmente y enojarse siguiendo sus impulsos, sin embargo, según Komachi, Reimu tiene un corazón inocente que no puede odiar a nadie.
 
@@ -10,9 +12,21 @@ Además, se ha visto que a pesar de que normalmente se encarga de derrotar y en 
 
 Otro dato que se puede observar es que Reimu parece tratar a todos por igual, dándole igual si son seres humanos, youkai o dioses, sin darles ningún respeto particular ni faltas de respeto. Este hábito la ha causado inadvertidamente amistad con muchos youkai que ella derrota, sin embargo, el hecho de que trate de mantener a los youkai lejos de su santuario es porque hace que sea más difícil hacer su trabajo como sacerdotisa y no realmente porque los deteste o le moleste su presencia. Además, al final del simposio en Symposium of Post-mysticism, cuando Reimu se va a descansar, Miko nota que aunque Reimu diga que quiere eliminar a todos los youkai, lo único que ella quiere es lograr una paz en Gensokyo que no requiera violencia.
 
-Ocupación:
+- Ocupación:
 
 Reimu es la sacerdotisa del Templo Hakurei, además de ser una de las principales personas resolviendo incidentes en Gensokyo. Ella y otros caracterizan el tiempo que pasan en el Templo Hakurei como aburrido y sin incidentes, y a pesar de que ella sea seria acerca de sus deberes como sacerdotisa, aparentemente no es capaz de conseguir adoradores en su santuario y al parecer que su labor ocupándose de incidentes con youkai, es su único método de ganar algo de dinero.
+
+- Poderes:
+
+Volar: A pesar de que al inicio necesitaba ayuda de Genji, Reimu desarrolló la habilidad para volar por su cuenta como la mayoría de habitantes de Gensokyo, y no sólo eso, si no que ha extendido sus habilidades más allá de eso, siendo capaz de teletransportarse a cortas distancias, aunque rara vez parece ser consciente de que lo está haciendo.
+
+Shide: El principal ataque de Reimu es el lanzamiento de sellos de papel o shide, además de que por ser la sacerdotisa del Templo Hakurei, ella puede utilizar los Orbes Yin-Yang como arma, estando entrenada en distintas técnicas de exterminación de youkai, así como en deberes estándar de sacerdotisa como dar bendiciones.
+
+Control de espiritu de seres vivos: Además, en el documento de texto omake.txt de Embodiment of Scarlet Devil, se puede encontrar que Reimu puede controlar los espíritus naturales de los seres vivos, una habilidad que no aparece en ninguna otra fuente oficial tanto antes como después de dicho juego, por lo que no se ha mostrado ningún caso claro de esta habilidad en el canon salvo lo escrito en dicho documento de texto.
+
+Control de barreras magicas: Reimu muestra una gran aptitud con barreras mágicas, presumiblemente relacionado con su trabajo en el mantenimiento de la Barrera Hakurei. Entre sus técnicas se pueden encontrar barreras que explotan, empujan a los enemigos (o ella misma), o incluso barreras que actúan como portales para sus otros ataques. Reimu además es capaz de desmantelar barreras y sellos demasiado complejos que ni siquiera Marisa o Patchouli entienden, por lo que Marisa lo llama su "técnica de trampa".
+
+Invocación de dioses: Reimu también es capaz de invocar a los dioses nativos de Gensokyo en su cuerpo, pero no está lo suficientemente capacitada para hacerlo de manera confiable por lo que no utiliza esta técnica con frecuencia.
 
 
 
